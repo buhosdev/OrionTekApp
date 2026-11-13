@@ -15,7 +15,7 @@ Esta aplicación fue creada para la empresa OrionTek bajo el nombre de OrionTek 
 
 •Setear el estado del cliente donde Activo es verde rojo e Inactivo es rojo.
 
-[NOTA]: Aunque es una aplicación para una prueba técnica la misma es 100% funcional y cumple con todas sus funciones libre de BUGS.
+[NOTA]: Aunque es una aplicación para una prueba técnica la misma es 100% funcional y cumple con todas sus funciones.
 
 ## #Capturas de uso de la aplicación.
 <img src="https://github.com/Buhos-Dev/OrionTekApp/blob/master/one.png" width="30%" align="center"></img>
